@@ -1,0 +1,74 @@
+header{
+  height: 64px;
+  background: #F7F7F7;
+}
+
+.header-plus{
+  display: flex;
+  justify-content: space-between;
+}
+
+.watch{
+  margin-left: 16px;
+  margin-top: 16px;
+  width: 32px;
+  height: 32px;
+}
+
+.grass{
+  margin-top: 16px;
+  width: 32px;
+  height: 32px;
+}
+
+.pp{
+  margin-right: 16px;
+  width: 32px;
+  height: 32px;
+  margin-left: 100px;
+}
+
+.set-right{
+position: absolute;
+width: 64px;
+height: 731px;
+top: 67px;
+background: #F7F7F7;
+}
+
+img{
+  width: 32px;
+  height: 32px;
+}
+
+.img1{
+  position: absolute;
+  left: 16px;
+  top: 40px;
+}
+.img2{
+position: absolute;
+left: 16px;
+top: 120px;
+}
+.img3{
+  position: absolute;
+  left: 16px;
+  top: 200px;
+}
+.img4{
+  position: absolute;
+  left: 16px;
+  top: 280px;
+}
+.img5{
+  position: absolute;
+  left: 16px;
+  top: 360px;
+}
+
+.img6{
+  position: absolute;
+  left: 16px;
+  top: 650px;
+}
